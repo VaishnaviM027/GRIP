@@ -2,4 +2,5 @@
 <ul>
   <li><b>Task 1</b>-Supervised Machine Learning(Linear regresssion)</li>
   <li><b>Task 2</b>-Unsupervised Machine Learning(K-Means Clustering)</li>
+  <li><b>Task 6</b>-Prediction using Decision Tree Algorithm</li>
 </ul>
